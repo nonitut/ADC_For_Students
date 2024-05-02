@@ -1,0 +1,16 @@
+*{ box-sizing: border-box;}
+html, body{ height: 100%;
+background: bisque;}
+
+@font-face {
+font-family: "CarlaSansLight";
+src: url("../fonts/CarlaSansLight.ttf") format("truetype");
+font-style: Light;
+font-weight: Light;
+}
+
+p{ font-family: 'CarlaSansLight'; }
+
+#integriruemtext{
+    margin: 10% 40%;
+}
