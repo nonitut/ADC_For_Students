@@ -1,20 +1,25 @@
-@media screen and (min-width: 1921px) {
-  
+@media screen and (min-width: 1px) and (max-width: 450px)  {
+/*  мобилка  */
+}
+
+@media screen and (min-width: 451px) and (max-width: 768px) {
+/*    планшет мини */
+}
+
+
+@media screen and (min-width: 769px) and (max-width:  1366px) {
+/*  планшет про */
+}
+
+@media screen and (min-width:  1366px) and (max-width: 1440px) {
+/* маленькие ноуты */
 }
 
 @media screen and (min-width: 1441px) and (max-width: 1920px) {
-
-}
-
-@media screen and (min-width: 769px) and (max-width: 1440px) {
-
+/* desctop */
 }
 
 
-@media screen and (min-width: 415px) and (max-width: 768px) {
-   
-}
-
-@media screen and (max-width: 414px) {
-
-}
+/* @media screen and (min-width: 1921px) {
+Дополнительно большие экраны } 
+Ориентация добавляется по необходимости и доп диапазоны тоже */
