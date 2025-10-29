@@ -1,3 +1,4 @@
 @import "reset.css";/* сбрoc настроек браузера */
+@import "fonts.css"; /* шрифт второй  */
 @import "content.css"; /* контент / содержимое  */
 @import "adaptive.css";/* адаптивность */
