@@ -1,6 +1,10 @@
 *{ box-sizing: border-box;}
-html, body{ height: 100%;
-background: bisque;}
+html, body{ 
+    width: 100%;
+    overflow-x: hidden;
+    height: 100%;
+    background: bisque;
+}
 
 @font-face {
 font-family: "CarlaSansLight";
@@ -13,4 +17,5 @@ p{ font-family: 'CarlaSansLight'; }
 
 #integriruemtext{
     margin: 10% 40%;
+
 }
